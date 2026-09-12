@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alepz27 👋
 
-<!--
-**Alepz27/Alepz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio. I use this space to document learning, prototypes, and practical engineering projects.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PTA Smart Door
+
+An ESP32-based smart access-control project combining RFID, AS608 fingerprint verification, Blynk connectivity, an LCD interface, relay control, and a solenoid door lock.
+
+[Explore the project →](https://github.com/Alepz27/PTA-Smart-Door)
+
+## What You'll Find Here
+
+- Embedded-systems and microcontroller projects
+- Hardware documentation, schematics, and circuit-design artefacts
+- Source code, test notes, and iteration history
+- Project documentation written to make work easier to understand and reproduce
+
+## Current Focus
+
+Building and documenting the PTA Smart Door project from hardware architecture through firmware and testing.
+
+## Portfolio Principle
+
+Clear documentation matters: each project should explain its purpose, architecture, implementation evidence, and next steps without exposing secrets or sensitive configuration.
+
+---
+
+Thanks for visiting.
