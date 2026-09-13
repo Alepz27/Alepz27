@@ -1,25 +1,33 @@
-# Hai, saya Alepz27
+# Hi, I'm Alepz27
 
-Saya ialah pelajar bidang kejuruteraan yang berminat dalam elektronik, sistem terbenam, Internet Benda (IoT), automasi dan aplikasi PLC. Profil ini menghimpunkan prototaip, bukti pengujian, batasan teknikal dan keputusan kejuruteraan yang dapat disokong oleh kandungan repositori.
+Engineering student interested in **electronics, embedded systems, IoT, and automation/PLC applications**. I use this profile to document functional prototypes, infrastructure experiments, testing evidence, limitations, and the engineering decisions behind each project.
 
-## Projek Utama
+## Featured Projects
 
 ### [PTA Smart Door](https://github.com/Alepz27/PTA-Smart-Door)
 
-PTA Smart Door ialah prototaip kawalan akses berasaskan ESP32 yang menggunakan RFID RC522, pengesahan cap jari AS608, penderia sentuh untuk keluar, LCD I2C, geganti dan kunci solenoid. Rekod pengguna disimpan secara setempat, manakala Blynk dan Telegram digunakan sebagai perkhidmatan rangkaian pilihan.
+An ESP32-based integrated access-control prototype using RC522 RFID, AS608 fingerprint authentication, touch-to-exit, an I2C LCD, relay/solenoid control, local user records, Blynk and Telegram.
 
-Dokumentasi projek menerangkan seni bina perkakasan dan perisian tegar, aliran operasi, pemetaan pin, logik pemulihan, batasan keselamatan dan bukti simulasi. Cadangan Smart Door V2 dipisahkan dengan jelas daripada fungsi yang telah dilaksanakan.
+The repository explains the hardware and firmware architecture, operating flows, pin mapping, reliability/recovery logic, security boundaries, simulation evidence and a clearly separated Smart Door V2 roadmap.
 
-**Bidang pembelajaran praktikal:** C++ terbenam, SPI/I2C/UART, penyelarasan tugas FreeRTOS, penyimpanan tidak meruap, integrasi IoT dan penyelesaian masalah perkakasan.
+**Practical areas:** embedded C++, SPI/I2C/UART peripherals, FreeRTOS task coordination, non-volatile data, IoT integration and hardware troubleshooting.
 
-## Minat Kejuruteraan
+### [Personal Cloud / Homelab](https://github.com/Alepz27/Personal-Cloud-Homelab)
 
-- Mikropengawal serta integrasi penderia dan penggerak
-- Perisian tegar terbenam dan kebolehpercayaan peranti
-- Sistem IoT yang mengekalkan fungsi setempat
-- Automasi industri dan kawalan berasaskan PLC
-- Pembinaan prototaip, pengujian dan dokumentasi teknikal
+A technical learning case study covering a historically operational Windows, WSL2 and Docker Compose environment for Immich, PostgreSQL, Redis, machine learning, iPhone uploads and persistent local-HDD storage.
 
-## Pendekatan Portfolio
+The documentation distinguishes primary storage from independent backup, records the current verification boundary, and proposes future backup, monitoring, UPS and secure remote-access work without presenting those features as implemented.
 
-Setiap projek perlu menerangkan perkara yang benar-benar dibina, cara sistem berfungsi, bukti yang tersedia, batasan semasa dan penambahbaikan yang dicadangkan. Kandungan ini mewakili pembelajaran amali dan minat dalam kejuruteraan, bukan dakwaan kepakaran atau kesediaan untuk penggunaan pengeluaran.
+**Practical areas:** containerization, multi-container services, databases, persistent storage, self-hosting, operational recovery concepts and infrastructure planning.
+
+## Engineering Interests
+
+- Microcontrollers and sensor/actuator integration
+- Embedded firmware and dependable device behavior
+- IoT systems that retain useful local operation
+- Industrial automation and PLC-based control
+- Practical prototyping, testing and technical documentation
+
+## Portfolio Approach
+
+I aim to show what was actually built, how it works, what evidence exists, where the limitations are, and what should be improved next. These repositories represent hands-on learning and engineering curiosity rather than claims of production-level expertise.
