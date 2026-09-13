@@ -1,30 +1,33 @@
-# Hi, I'm Alepz27 👋
+# Hi, I'm Alepz27
 
-Welcome to my GitHub portfolio. I use this space to document learning, prototypes, and practical engineering projects.
+Engineering student interested in **electronics, embedded systems, IoT, and automation/PLC applications**. I use this profile to document functional prototypes, infrastructure experiments, testing evidence, limitations, and the engineering decisions behind each project.
 
-## Featured Project
+## Featured Projects
 
-### PTA Smart Door
+### [PTA Smart Door](https://github.com/Alepz27/PTA-Smart-Door)
 
-An ESP32-based smart access-control project combining RFID, AS608 fingerprint verification, Blynk connectivity, an LCD interface, relay control, and a solenoid door lock.
+An ESP32-based integrated access-control prototype using RC522 RFID, AS608 fingerprint authentication, touch-to-exit, an I2C LCD, relay/solenoid control, local user records, Blynk and Telegram.
 
-[Explore the project →](https://github.com/Alepz27/PTA-Smart-Door)
+The repository explains the hardware and firmware architecture, operating flows, pin mapping, reliability/recovery logic, security boundaries, simulation evidence and a clearly separated Smart Door V2 roadmap.
 
-## What You'll Find Here
+**Practical areas:** embedded C++, SPI/I2C/UART peripherals, FreeRTOS task coordination, non-volatile data, IoT integration and hardware troubleshooting.
 
-- Embedded-systems and microcontroller projects
-- Hardware documentation, schematics, and circuit-design artefacts
-- Source code, test notes, and iteration history
-- Project documentation written to make work easier to understand and reproduce
+### [Personal Cloud / Homelab](https://github.com/Alepz27/Personal-Cloud-Homelab)
 
-## Current Focus
+A technical learning case study covering a historically operational Windows, WSL2 and Docker Compose environment for Immich, PostgreSQL, Redis, machine learning, iPhone uploads and persistent local-HDD storage.
 
-Building and documenting the PTA Smart Door project from hardware architecture through firmware and testing.
+The documentation distinguishes primary storage from independent backup, records the current verification boundary, and proposes future backup, monitoring, UPS and secure remote-access work without presenting those features as implemented.
 
-## Portfolio Principle
+**Practical areas:** containerization, multi-container services, databases, persistent storage, self-hosting, operational recovery concepts and infrastructure planning.
 
-Clear documentation matters: each project should explain its purpose, architecture, implementation evidence, and next steps without exposing secrets or sensitive configuration.
+## Engineering Interests
 
----
+- Microcontrollers and sensor/actuator integration
+- Embedded firmware and dependable device behavior
+- IoT systems that retain useful local operation
+- Industrial automation and PLC-based control
+- Practical prototyping, testing and technical documentation
 
-Thanks for visiting.
+## Portfolio Approach
+
+I aim to show what was actually built, how it works, what evidence exists, where the limitations are, and what should be improved next. These repositories represent hands-on learning and engineering curiosity rather than claims of production-level expertise.
